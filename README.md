@@ -1,5 +1,5 @@
-tokida hideaki - man
-nakajo mariko 
-wada  
+tokida hideaki - man  
+nakajo  
+*wada*  
 otsuji yukiko  
-miyanoiri  
+miyanoiri -man  
