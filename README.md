@@ -1,5 +1,5 @@
-tokida hideaki - man
+tokida hideaki - man  
 nakajo  
 wada  
 otsuji  
-miyanoiri  
+miyanoiri -man  
