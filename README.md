@@ -1,5 +1,5 @@
-tokida hideaki
-nakajo
-wada
-otsuji
-miyanoiri
+tokida hideaki  
+nakajo  
+wada  
+otsuji  
+miyanoiri  
