@@ -1,7 +1,5 @@
-# hello-world2
-
 tokida hideaki - man  
 nakajo  
 *wada*  
-otsuji  
+otsuji yukiko  
 miyanoiri -man  
