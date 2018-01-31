@@ -1,5 +1,5 @@
 tokida hideaki  
 nakajo  
 wada  
-otsuji  
+otsuji yukiko  
 miyanoiri  
